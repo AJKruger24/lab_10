@@ -1,3 +1,3 @@
 #!/bin/bash
 
-Hello from Kamiak!
+echo "Hello from Kamiak!"
